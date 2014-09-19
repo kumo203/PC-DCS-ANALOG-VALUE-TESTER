@@ -38,11 +38,6 @@ namespace PCDCS_AnalogValueTester
 
         }
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-            
-        }
-
         private void btnListRefresh_Click(object sender, EventArgs e)
         {
             cmbServerList.Items.Clear();
@@ -181,11 +176,6 @@ namespace PCDCS_AnalogValueTester
                 //txtTag4.ReadOnly = false;
                 //txtTag5.ReadOnly = false;
             }
-        }
-
-        private void panel1_Paint(object sender, PaintEventArgs e)
-        {
-
         }
    
 

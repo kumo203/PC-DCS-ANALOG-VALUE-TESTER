@@ -43,7 +43,7 @@
             this.TagTxt.Location = new System.Drawing.Point(40, 5);
             this.TagTxt.Name = "TagTxt";
             this.TagTxt.ReadOnly = true;
-            this.TagTxt.Size = new System.Drawing.Size(100, 19);
+            this.TagTxt.Size = new System.Drawing.Size(100, 20);
             this.TagTxt.TabIndex = 0;
             // 
             // RegisterTxt
@@ -51,21 +51,21 @@
             this.RegisterTxt.Location = new System.Drawing.Point(147, 5);
             this.RegisterTxt.Name = "RegisterTxt";
             this.RegisterTxt.ReadOnly = true;
-            this.RegisterTxt.Size = new System.Drawing.Size(100, 19);
+            this.RegisterTxt.Size = new System.Drawing.Size(100, 20);
             this.RegisterTxt.TabIndex = 1;
             // 
             // ValueTxt
             // 
             this.ValueTxt.Location = new System.Drawing.Point(254, 5);
             this.ValueTxt.Name = "ValueTxt";
-            this.ValueTxt.Size = new System.Drawing.Size(65, 19);
+            this.ValueTxt.Size = new System.Drawing.Size(65, 20);
             this.ValueTxt.TabIndex = 2;
             // 
             // SetButton
             // 
             this.SetButton.Location = new System.Drawing.Point(324, 4);
             this.SetButton.Name = "SetButton";
-            this.SetButton.Size = new System.Drawing.Size(66, 21);
+            this.SetButton.Size = new System.Drawing.Size(66, 23);
             this.SetButton.TabIndex = 3;
             this.SetButton.Text = "Set";
             this.SetButton.UseVisualStyleBackColor = true;
@@ -76,14 +76,14 @@
             this.NoTxt.Location = new System.Drawing.Point(3, 5);
             this.NoTxt.Name = "NoTxt";
             this.NoTxt.ReadOnly = true;
-            this.NoTxt.Size = new System.Drawing.Size(31, 19);
+            this.NoTxt.Size = new System.Drawing.Size(31, 20);
             this.NoTxt.TabIndex = 4;
             // 
             // Btn0
             // 
             this.Btn0.Location = new System.Drawing.Point(396, 4);
             this.Btn0.Name = "Btn0";
-            this.Btn0.Size = new System.Drawing.Size(33, 21);
+            this.Btn0.Size = new System.Drawing.Size(33, 23);
             this.Btn0.TabIndex = 5;
             this.Btn0.Text = "0";
             this.Btn0.UseVisualStyleBackColor = true;
@@ -93,7 +93,7 @@
             // 
             this.Btn5.Location = new System.Drawing.Point(435, 4);
             this.Btn5.Name = "Btn5";
-            this.Btn5.Size = new System.Drawing.Size(42, 21);
+            this.Btn5.Size = new System.Drawing.Size(42, 23);
             this.Btn5.TabIndex = 6;
             this.Btn5.Text = "5000";
             this.Btn5.UseVisualStyleBackColor = true;
@@ -103,7 +103,7 @@
             // 
             this.Btn1.Location = new System.Drawing.Point(483, 3);
             this.Btn1.Name = "Btn1";
-            this.Btn1.Size = new System.Drawing.Size(44, 21);
+            this.Btn1.Size = new System.Drawing.Size(50, 23);
             this.Btn1.TabIndex = 7;
             this.Btn1.Text = "10000";
             this.Btn1.UseVisualStyleBackColor = true;
@@ -111,7 +111,7 @@
             // 
             // UserControl1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.Btn1);
             this.Controls.Add(this.Btn5);
@@ -122,7 +122,7 @@
             this.Controls.Add(this.RegisterTxt);
             this.Controls.Add(this.TagTxt);
             this.Name = "UserControl1";
-            this.Size = new System.Drawing.Size(536, 30);
+            this.Size = new System.Drawing.Size(536, 33);
             this.ResumeLayout(false);
             this.PerformLayout();
 

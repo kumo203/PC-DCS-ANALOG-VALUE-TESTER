@@ -88,3 +88,15 @@ G:\Analog Data Input PC-DCS Tool\PCDCS Testing Tool\PCDCS Testing Tool\obj\Debug
 \\192.168.254.220\g\MemberFolders\JB\Programs\Analog Data Input PC-DCS Tool\PCDCS Testing Tool\PCDCS Testing Tool\obj\Debug\PCDCS_AnalogValueTester.exe
 \\192.168.254.220\g\MemberFolders\JB\Programs\Analog Data Input PC-DCS Tool\PCDCS Testing Tool\PCDCS Testing Tool\obj\Debug\PCDCS_AnalogValueTester.pdb
 \\192.168.254.220\g\MemberFolders\JB\Programs\Analog Data Input PC-DCS Tool\PCDCS Testing Tool\PCDCS Testing Tool\obj\Debug\PCDCS_AnalogValueTester.AnalogValueTester.resources
+C:\Users\Administrator\Documents\GitHub\PC-DCS-ANALOG-VALUE-TESTER\PCDCS Testing Tool\PCDCS Testing Tool\bin\Debug\PCDCS_AnalogValueTester.exe.config
+C:\Users\Administrator\Documents\GitHub\PC-DCS-ANALOG-VALUE-TESTER\PCDCS Testing Tool\PCDCS Testing Tool\obj\Debug\PCDCS_AnalogValueTester.exe
+C:\Users\Administrator\Documents\GitHub\PC-DCS-ANALOG-VALUE-TESTER\PCDCS Testing Tool\PCDCS Testing Tool\obj\Debug\PCDCS_AnalogValueTester.pdb
+C:\Users\Administrator\Documents\GitHub\PC-DCS-ANALOG-VALUE-TESTER\PCDCS Testing Tool\PCDCS Testing Tool\bin\Debug\PCDCS_AnalogValueTester.exe
+C:\Users\Administrator\Documents\GitHub\PC-DCS-ANALOG-VALUE-TESTER\PCDCS Testing Tool\PCDCS Testing Tool\bin\Debug\PCDCS_AnalogValueTester.pdb
+C:\Users\Administrator\Documents\GitHub\PC-DCS-ANALOG-VALUE-TESTER\PCDCS Testing Tool\PCDCS Testing Tool\bin\Debug\DxpSimpleAPI.dll
+C:\Users\Administrator\Documents\GitHub\PC-DCS-ANALOG-VALUE-TESTER\PCDCS Testing Tool\PCDCS Testing Tool\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\Administrator\Documents\GitHub\PC-DCS-ANALOG-VALUE-TESTER\PCDCS Testing Tool\PCDCS Testing Tool\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\Administrator\Documents\GitHub\PC-DCS-ANALOG-VALUE-TESTER\PCDCS Testing Tool\PCDCS Testing Tool\obj\Debug\PCDCS Testing Tool.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\PC-DCS-ANALOG-VALUE-TESTER\PCDCS Testing Tool\PCDCS Testing Tool\obj\Debug\PCDCS_AnalogValueTester.AnalogValueTester.resources
+C:\Users\Administrator\Documents\GitHub\PC-DCS-ANALOG-VALUE-TESTER\PCDCS Testing Tool\PCDCS Testing Tool\obj\Debug\PCDCS_AnalogValueTester.Properties.Resources.resources
+C:\Users\Administrator\Documents\GitHub\PC-DCS-ANALOG-VALUE-TESTER\PCDCS Testing Tool\PCDCS Testing Tool\obj\Debug\PCDCS Testing Tool.csproj.GenerateResource.Cache
